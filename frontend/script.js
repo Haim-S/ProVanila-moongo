@@ -5,6 +5,8 @@ const tableBody = document.querySelector("[data-table-body]");
 const formElement = document.querySelector("[data-animals-form]");
 const inputName = document.querySelector("[data-name-input]");
 const inputPrice = document.querySelector("[data-price-input]");
+const StockInput = document.querySelector("[data-stock-input]");
+const RatingInput = document.querySelector("[data-rating-input]");
 
 const btnAllDrinks = document.querySelector("[data-btn-AllDrinks]");
 const btnCheapDrinks = document.querySelector("[data-btn-CheapDrinks]");
@@ -67,6 +69,8 @@ formElement.onsubmit = (e) => {
     const body = {
         name: inputName.value,
         price: inputPrice.value,
+        Stock: StockInput.value,
+        rating: RatingInput.value,
     }
 
     fetch(END_POINT + "create", {
