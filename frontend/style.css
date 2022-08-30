@@ -1,0 +1,36 @@
+body {
+    margin-top: 90px;
+}
+
+
+span {
+    cursor: pointer;
+}
+
+.edit-modal {
+    background: rgb(0, 0, 0, .7);
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    display: none;
+    position: sticky;
+    top: 0;
+
+}
+
+.edit-modal>form {
+    background: grey;
+    height: 20vh;
+    width: 40vw;
+    border: 2 px solid white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: none;
+    align-items: center;
+    justify-content: center;
+
+
+}
+

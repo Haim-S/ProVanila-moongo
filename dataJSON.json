@@ -1,0 +1,147 @@
+ 
+ [
+    {
+      
+"name": "cokacola",
+"type":"half a liter",
+"Situation":"cold",
+"price":"30",
+"Stock": "70",
+"img":"https://images.pexels.com/photos/4978740/pexels-photo-4978740.jpeg?cs=srgb&dl=pexels-rina-ringo-4978740.jpg&fm=jpg"
+    },
+     {
+      
+"name": "Orange juice",
+"type":"half a liter",
+"Situation":"cold",
+"price":"10",
+"Stock": "10",
+"img":"https://images.pexels.com/photos/7377089/pexels-photo-7377089.jpeg?cs=srgb&dl=pexels-arina-krasnikova-7377089.jpg&fm=jpg"
+    },
+     {
+      
+"name": "apple juice",
+"type":"half a liter",
+"Situation":"cold",
+"price":"10",
+"Stock": "5",
+"img":"https://images.pexels.com/photos/7376991/pexels-photo-7376991.jpeg?cs=srgb&dl=pexels-arina-krasnikova-7376991.jpg&fm=jpg"
+    },
+     {
+      
+"name": "beer",
+"type":"half a liter",
+"Situation":"cold",
+"price":"70",
+"Stock": "10",
+"img":"https://images.pexels.com/photos/8771966/pexels-photo-8771966.jpeg?cs=srgb&dl=pexels-lucas-albino-8771966.jpg&fm=jpg"
+    },
+      {
+       
+"name": "beer-korona",
+"type":"half a liter",
+"Situation":"cold",
+"price":"70",
+"Stock": "10",
+"img":"https://images.pexels.com/photos/8771962/pexels-photo-8771962.jpeg?cs=srgb&dl=pexels-lucas-albino-8771962.jpg&fm=jpg"
+    },
+     {
+        "id": "4e7bd17c-d669-4a2b-b585-30ac2f77c692",
+"name": "special carrot juice",
+"type":"half a liter",
+"Situation":"tepid",
+"price":"60",
+"Stock": "30",
+"img":"https://images.pexels.com/photos/7500451/pexels-photo-7500451.jpeg?cs=srgb&dl=pexels-ra%27fat-borini-7500451.jpg&fm=jpg"
+    },
+    {
+   
+    "name":"Mojito recipe",
+    "recipe":"Mix this classic cocktail for a party using fresh mint, white rum, sugar, zesty lime and cooling soda water. Play with the quantities to suit your taste.",
+    "preparation time":"5 sec",
+    "rating":"5",
+    "price":"150",
+    "Stock":"20",
+    "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/mojito-cocktails-150961e.jpg?resize=960,872?quality=90&webp=true&resize=375,341"
+},
+{
+   
+    "name":"Espresso martini",
+    "recipe":"Learn how to make this classic coffee cocktail. Our easy recipe uses freshly brewed espresso, a dash of coffee liqueur and a simple sugar syrup.",
+    "preparation time":"5 sec",
+    "rating":"4",
+    "price":"90",
+    "Stock":"80",
+    "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/espresso-martini-f099531.jpg?resize=960,872?quality=90&webp=true&resize=375,341"
+},
+{
+    
+    "name":"Aperol spritz",
+    "recipe":"Get a taste of summer with our take on this classic Italian cocktail of Aperol, prosecco and soda. Try our proportions or adjust the ratio to taste",
+    "preparation time":"5 mins",
+    "rating":"5",
+    "price":"250",
+    "Stock":"10",
+    "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/aperol-spritz-0e58f7b.jpg?resize=960,872?quality=90&webp=true&resize=375,341"
+},
+{
+   
+    "name":"Rhubarb fizz",
+    "recipe":"Use bright-pink stemmed rhubarb to achieve the gorgeous blush colour in this rhubarb fizz cocktail, made with a blend of sparkling wine and gin",
+    "preparation time":"10 mins",
+    "rating":"0",
+    "price":"40",
+    "Stock":"20",
+    "img":"https://images.immediate.co.uk/production/volatile/sites/30/2022/03/rhubarb-fizz-1471a63.jpg?resize=960,872?quality=90&webp=true&resize=375,341"
+},
+{
+   
+    "name":"Blood beetroot",
+    "recipe":"This blood-red lemonade and Prosecco combo is sure to be your new favourite spooky tipple",
+    "preparation time":"15 mins",
+    "rating":"3",
+    "price":"90",
+    "Stock":"20",
+    "img":"https://images.immediate.co.uk/production/volatile/sites/30/2020/08/blood-beetroot-cocktails-a427381.jpg?resize=960,872?quality=90&webp=true&resize=375,341"
+},
+{
+   
+"name": "black coffee",
+"Situation":"hot",
+"price":"30",
+"Stock": "70",
+"img":"https://images.pexels.com/photos/2067415/pexels-photo-2067415.jpeg?cs=srgb&dl=pexels-marta-dzedyshko-2067415.jpg&fm=jpg"
+    },
+     {
+      
+"name": "coffee Latte",
+"Situation":"hot",
+"price":"10",
+"Stock": "10",
+"img":"https://images.pexels.com/photos/2101150/pexels-photo-2101150.jpeg?cs=srgb&dl=pexels-elle-hughes-2101150.jpg&fm=jpg"
+    },
+     {
+     
+"name": "Espresso",
+"Situation":"hot",
+"price":"10",
+"Stock": "5",
+"img":"https://images.pexels.com/photos/2910874/pexels-photo-2910874.jpeg?cs=srgb&dl=pexels-mew-wy-2910874.jpg&fm=jpg"
+    },
+     {
+        "id": "2989fce1-44c3-410a-a8c2-e0ec1ff9290c",
+"name": "Cortado",
+"Situation":"hot",
+"price":"70",
+"Stock": "10",
+"img":"https://images.pexels.com/photos/685527/pexels-photo-685527.jpeg?cs=srgb&dl=pexels-victor-freitas-685527.jpg&fm=jpg"
+    },
+      {
+       
+"name": "Ristretto",
+"Situation":"hot",
+"price":"70",
+"Stock": "10",
+"img":"https://images.pexels.com/photos/4109853/pexels-photo-4109853.jpeg?cs=srgb&dl=pexels-polina-tankilevitch-4109853.jpg&fm=jpg"
+    }
+ ]
