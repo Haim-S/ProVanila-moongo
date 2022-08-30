@@ -46,7 +46,12 @@ app.delete("/del/:id", async(req, res) =>{
 })
 
 app.post("/create", async(req, res) =>{
-    await Drinks.create({name: req.body.name, price: req.body.price, Stock: req.body.Stock});
+    await Drinks.create({
+        name: req.body.name,
+        price: req.body.price,
+        Stock: req.body.Stock,
+        rating: req.body.rating
+    });
      const drinks = await Drinks.find()
     res.json(drinks);
 

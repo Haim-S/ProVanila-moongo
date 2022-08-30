@@ -6,6 +6,7 @@ const ListDrinks = new Schema({
     type: String,
     price: Number,
     Stock: Number,
+    rating: Number,
 });
 
 const Drinks = model("Drinks", ListDrinks);
